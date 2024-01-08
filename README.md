@@ -40,7 +40,6 @@ palmeras y demás detalles de la naturaleza.
 escenario. Puedes manejar la caña de pescar con total libertad, como si la
 sujetases en la vida real, y agarrar los peces que consigas coger.
 
-
 ## Sensores de interfaces multimodales
 Cuando recuperas el hilo, se hace vibrar el mando con el que se sujeta la caña de pescar,
 logrando una respuesta háptica a la acción, lo cual refuerza la kinestética del
@@ -51,6 +50,7 @@ se hace uso de los sensores de movimiento para localizarse en el espacio del
 juego.
 
 ## Gif animado de ejecución
+![video de ejecución](video.mp4)
 
 ## Acta de los acuerdos del trabajo en equipo
 
