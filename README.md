@@ -50,7 +50,7 @@ se hace uso de los sensores de movimiento para localizarse en el espacio del
 juego.
 
 ## Gif animado de ejecución
-![video de ejecución](video.mp4)
+https://github.com/AdrianoMoreira08/ii-prototipo-rv-simple-fishing-vr/assets/72458779/5875f3a5-508d-4a86-a001-b64e914da0a6
 
 ## Acta de los acuerdos del trabajo en equipo
 
