@@ -14,9 +14,14 @@ disfrutado en RV, preferiblemente con un dispositivo que permita el control por
 gestos como podría ser las *Meta Quest 2*, *Valve Index* o *HTC Vive*.
 
 ## Hitos de programación
-- Controles en realidad virtual: Se ha implementado la capacidad de usar los mandos nativos de los dispositivos de realidad virtual en la aplicación
-- Físicas: El lanzamiento del cebo y la interacción con la bobina de pesca se basa en físicas de Unity. El cebo también dispone de un sistema de flotabilidad sobre el agua.
-- Eventos: Los peces y la caña mantienen comunicación mediante eventos para saber que pez está siendo pescado. Así como el script de la bobina tiene un evento para que la caña tenga su comportamiento.
+- **Controles en realidad virtual**: Se ha implementado la capacidad de usar los
+mandos nativos de los dispositivos de realidad virtual en la aplicación.
+- **Físicas**: El lanzamiento del cebo y la interacción con la bobina de pesca se
+basa en físicas de Unity. El cebo también dispone de un sistema de flotabilidad
+sobre el agua.
+- **Eventos**: Los peces y la caña mantienen comunicación mediante eventos para
+saber que pez está siendo pescado. Así como el script de la bobina tiene un evento
+para que la caña tenga su comportamiento.
 
 ## Aspectos destacados de la aplicación
 - **Simulación de peces vivos.** En la porción de mar frente al usuario se
